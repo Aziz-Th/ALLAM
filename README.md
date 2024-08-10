@@ -1,6 +1,6 @@
 ## Group Zero Notion Page
 
-#### by Shayi Aldohaim, Mohammed Alhosaini, Abdulaziz Althumairy 
+#### by Shayi Aldohaim, Mohammed Alhusini, Abdulaziz Althumairy 
 
 Cleaned Data with Embeddings: https://drive.google.com/file/d/19tENdH2TXN8yILOX3zSEyi8t-7pENgeW/view?usp=sharing
 
